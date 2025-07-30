@@ -9,7 +9,7 @@ load_dotenv()
 # ───── Basic Bot Configuration ───── #
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
-BOT_TOKEN = getenv("6124843978:AAHt9JKT-80M0QGQ66RMEUAs96M4jpbOijs")
+BOT_TOKEN = getenv("6124843978:AAEdB2v2llVdnl0zC_VNc4y2p0vWao-aKqU")
 
 OWNER_ID = int(getenv("OWNER_ID", 5575457497))
 OWNER_USERNAME = getenv("OWNER_USERNAME", "GoTo_HellxD")
