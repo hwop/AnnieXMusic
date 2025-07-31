@@ -1,3 +1,7 @@
 # Netscape HTTP Cookie File
-.youtube.com	TRUE	/	TRUE	1735689600	SSID	12345
-.youtube.com	TRUE	/	TRUE	1735689600	HSID	ABCDE
+.youtube.com   TRUE   /   TRUE   1735689600   HSID    xxxxxxxxxx
+.youtube.com   TRUE   /   TRUE   1735689600   SSID    xxxxxxxxxx
+.youtube.com   TRUE   /   TRUE   1735689600   SID     xxxxxxxxxx
+.youtube.com   TRUE   /   TRUE   1735689600   SAPISID xxxxxxxxxx
+.youtube.com   TRUE   /   TRUE   1735689600   APISID  xxxxxxxxxx
+.youtube.com   TRUE   /   TRUE   1735689600   LOGIN_INFO  xxxxxxxxxx
